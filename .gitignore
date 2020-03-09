@@ -1,0 +1,8 @@
+/front
+/back/.vscode
+/back/venv
+/back/backMatchInternship/my.cnf
+/back/backMatchInternship/password.txt
+/back/backMatchInternship/backMatchInternship/__pycache__
+/back/backMatchInternship/backMatchInternship/api/__pycache__
+/back/backMatchInternship/backMatchInternship/api/migrations
